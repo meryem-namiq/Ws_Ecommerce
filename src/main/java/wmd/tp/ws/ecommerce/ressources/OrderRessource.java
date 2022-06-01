@@ -4,7 +4,6 @@ import java.util.List;
 
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-
 import wmd.tp.ws.ecommerce.service.*;
 import wmd.tp.ws.ecommerce.model.*;
 
